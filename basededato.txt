@@ -1,0 +1,120 @@
+Pregunta #1: ¿El Pokemon usa ataques electricos?: Si
+Pregunta #2: ¿El Pokemon es de tipo Tierra?: No
+Pregunta #3: ¿El Pokemon puede volar?: Si
+Pregunta #4: ¿El Pokemon es de tipo Agua?: No
+Pregunta #5: ¿El Pokemon es de tipo Fuego?: Si
+Pregunta #6: ¿El Pokemon es de color rojo?: No
+Pregunta #7: ¿El Pokemon es una evolucion de otro Pokémon?: Si
+Pregunta #8: ¿El Pokemon es de tipo Tierra?: Si
+Pregunta #9: ¿El Pokemon tiene forma de animal?: Si
+Pregunta #10: ¿El Pokemon es de tipo Drago?: Si
+Pregunta #1: ¿El Pokemon es de tipo Agua?: Si
+Pregunta #2: ¿El Pokemon puede volar?: No
+Pregunta #3: ¿El Pokemon es de tipo Fuego?: Si
+Pregunta #4: ¿El Pokemon es de tipo Tierra?: No
+Pregunta #5: ¿El Pokemon es de color rojo?: Si
+Pregunta #6: ¿El Pokemon es de tipo Drago?: Si
+Pregunta #7: ¿El Pokemon tiene forma de animal?: Si
+Pregunta #8: ¿El Pokemon usa ataques electricos?: Si
+Pregunta #9: ¿El Pokemon es de tipo Tierra?: Si
+Pregunta #10: ¿El Pokemon es una evolucion de otro Pokémon?: Si
+Pregunta #1: ¿El Pokemon usa ataques electricos?: Si
+Pregunta #2: ¿El Pokemon es de tipo Tierra?: Si
+Pregunta #3: ¿El Pokemon es de tipo Drago?: No
+Pregunta #4: ¿El Pokemon puede volar?: No
+Pregunta #5: ¿El Pokemon es de tipo Fuego?: No
+Pregunta #6: ¿El Pokemon tiene forma de animal?: No
+Pregunta #7: ¿El Pokemon es una evolucion de otro Pokémon?: No
+Pregunta #8: ¿El Pokemon es de tipo Tierra?: No
+Pregunta #9: ¿El Pokemon es de color rojo?: No
+Pregunta #10: ¿El Pokemon es de tipo Agua?: No
+Pregunta #1: ¿El Pokemon puede volar?: No
+Pregunta #2: ¿El Pokemon es de tipo Agua?: No
+Pregunta #3: ¿El Pokemon es de color rojo?: No
+Pregunta #4: ¿El Pokemon es una evolucion de otro Pokémon?: No
+Pregunta #5: ¿El Pokemon es de tipo Tierra?: No
+Pregunta #6: ¿El Pokemon usa ataques electricos?: No
+Pregunta #7: ¿El Pokemon es de tipo Tierra?: No
+Pregunta #8: ¿El Pokemon tiene forma de animal?: No
+Pregunta #9: ¿El Pokemon es de tipo Fuego?: No
+Pregunta #10: ¿El Pokemon es de tipo Drago?: No
+Pregunta #1: ¿El Pokemon es de tipo Fuego?: Si
+Pregunta #2: ¿El Pokemon es de tipo Agua?: Si
+Pregunta #3: ¿El Pokemon es de tipo Tierra?: Si
+Pregunta #4: ¿El Pokemon es de tipo Drago?: Si
+Pregunta #5: ¿El Pokemon es de tipo Tierra?: Si
+Pregunta #6: ¿El Pokemon tiene forma de animal?: Si
+Pregunta #7: ¿El Pokemon es de color rojo?: Si
+Pregunta #8: ¿El Pokemon usa ataques electricos?: Si
+Pregunta #9: ¿El Pokemon puede volar?: Si
+Pregunta #10: ¿El Pokemon es una evolucion de otro Pokémon?: Si
+Pregunta #1: ¿El Pokemon es de tipo Fuego?: Si
+Pregunta #2: ¿El Pokemon es de tipo Agua?: Si
+Pregunta #3: ¿El Pokemon es de tipo Tierra?: Si
+Pregunta #4: ¿El Pokemon es de tipo Drago?: Si
+Pregunta #5: ¿El Pokemon es de tipo Tierra?: Si
+Pregunta #6: ¿El Pokemon tiene forma de animal?: Si
+Pregunta #7: ¿El Pokemon es de color rojo?: Si
+Pregunta #8: ¿El Pokemon usa ataques electricos?: Si
+Pregunta #9: ¿El Pokemon puede volar?: Si
+Pregunta #10: ¿El Pokemon es una evolucion de otro Pokémon?: Si
+Pregunta #1: ¿El Pokemon es de tipo Fuego?: No
+Pregunta #2: ¿El Pokemon es de tipo Agua?: No
+Pregunta #3: ¿El Pokemon es de tipo Tierra?: No
+Pregunta #4: ¿El Pokemon es de tipo Drago?: No
+Pregunta #5: ¿El Pokemon es de tipo Tierra?: Si
+Pregunta #6: ¿El Pokemon tiene forma de animal?: No
+Pregunta #7: ¿El Pokemon es de color rojo?: No
+Pregunta #8: ¿El Pokemon usa ataques electricos?: No
+Pregunta #9: ¿El Pokemon puede volar?: No
+Pregunta #10: ¿El Pokemon es una evolucion de otro Pokémon?: No
+Pregunta #1: ¿El Pokemon es de tipo Fuego?: No
+Pregunta #2: ¿El Pokemon es de tipo Agua?: No
+Pregunta #3: ¿El Pokemon es de tipo Tierra?: No
+Pregunta #4: ¿El Pokemon es de tipo Drago?: No
+Pregunta #5: ¿El Pokemon es de tipo Tierra?: No
+Pregunta #6: ¿El Pokemon tiene forma de animal?: No
+Pregunta #7: ¿El Pokemon es de color rojo?: No
+Pregunta #8: ¿El Pokemon usa ataques electricos?: No
+Pregunta #9: ¿El Pokemon puede volar?: No
+Pregunta #10: ¿El Pokemon es una evolucion de otro Pokémon?: No
+Pregunta #1: ¿El Pokemon es de tipo Fuego?: Si
+Pregunta #2: ¿El Pokemon es de tipo Agua?: Si
+Pregunta #3: ¿El Pokemon es de tipo Tierra?: Si
+Pregunta #4: ¿El Pokemon es de tipo Drago?: Si
+Pregunta #5: ¿El Pokemon es de tipo Tierra?: Si
+Pregunta #6: ¿El Pokemon tiene forma de animal?: Si
+Pregunta #7: ¿El Pokemon es de color rojo?: Si
+Pregunta #8: ¿El Pokemon usa ataques electricos?: Si
+Pregunta #9: ¿El Pokemon puede volar?: Si
+Pregunta #10: ¿El Pokemon es una evolucion de otro Pokémon?: Si
+Pregunta #1: ¿El Pokemon es de tipo Fuego?: Si
+Pregunta #2: ¿El Pokemon es de tipo Agua?: Si
+Pregunta #3: ¿El Pokemon es de tipo Tierra?: Si
+Pregunta #4: ¿El Pokemon es de tipo Drago?: Si
+Pregunta #5: ¿El Pokemon es de tipo Tierra?: Si
+Pregunta #6: ¿El Pokemon tiene forma de animal?: Si
+Pregunta #7: ¿El Pokemon es de color rojo?: Si
+Pregunta #8: ¿El Pokemon usa ataques electricos?: Si
+Pregunta #9: ¿El Pokemon puede volar?: Si
+Pregunta #10: ¿El Pokemon es una evolucion de otro Pokémon?: Si
+Pregunta #1: ¿El Pokemon es de tipo Fuego?: Si
+Pregunta #2: ¿El Pokemon es de tipo Agua?: Si
+Pregunta #3: ¿El Pokemon es de tipo Tierra?: Si
+Pregunta #4: ¿El Pokemon es de tipo Drago?: Si
+Pregunta #5: ¿El Pokemon es de tipo Tierra?: Si
+Pregunta #6: ¿El Pokemon tiene forma de animal?: Si
+Pregunta #7: ¿El Pokemon es de color rojo?: Si
+Pregunta #8: ¿El Pokemon usa ataques electricos?: Si
+Pregunta #9: ¿El Pokemon puede volar?: Si
+Pregunta #10: ¿El Pokemon es una evolucion de otro Pokémon?: Si
+Pregunta #1: ¿El Pokemon es de tipo Fuego?: Si
+Pregunta #2: ¿El Pokemon es de tipo Agua?: Si
+Pregunta #3: ¿El Pokemon es de tipo Tierra?: Si
+Pregunta #4: ¿El Pokemon es de tipo Drago?: Si
+Pregunta #5: ¿El Pokemon es de tipo Tierra?: Si
+Pregunta #6: ¿El Pokemon tiene forma de animal?: Si
+Pregunta #7: ¿El Pokemon es de color rojo?: Si
+Pregunta #8: ¿El Pokemon usa ataques electricos?: Si
+Pregunta #9: ¿El Pokemon puede volar?: Si
+Pregunta #10: ¿El Pokemon es una evolucion de otro Pokémon?: Si

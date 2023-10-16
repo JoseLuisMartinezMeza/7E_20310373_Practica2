@@ -1,0 +1,10 @@
+¿El Pokemon es de tipo Fuego?
+¿El Pokemon es de tipo Agua?
+¿El Pokemon es de tipo Tierra?
+¿El Pokemon es de tipo Drago?
+¿El Pokemon es de tipo Tierra?
+¿El Pokemon tiene forma de animal?
+¿El Pokemon es de color rojo?
+¿El Pokemon usa ataques electricos?
+¿El Pokemon puede volar?
+¿El Pokemon es una evolucion de otro Pokémon?
